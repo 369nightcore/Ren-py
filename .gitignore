@@ -1,0 +1,28 @@
+# Ren'Py が自動生成するファイル（コミットしない）
+game/cache/
+game/saves/
+game/tl/**/None/
+*.rpyc
+*.rpyb
+*.rpymc
+log.txt
+errors.txt
+traceback.txt
+tmp/
+
+# ビルド成果物
+*-all/
+*-dists/
+*-web/
+
+# OS / エディタ
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
